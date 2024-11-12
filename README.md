@@ -9,7 +9,7 @@ In the past we have invested in AI, cryptography, semiconductors, longevity and 
 - cryptography (for blockchain or otherwise)
 - biotech (with a strong focus on longevity)
 
-Email [Kyle](kyle@unit.vc) to talk!
+Email [Kyle](mailto:kyle@unit.vc) to talk!
 
 ## Who we are
 - [Rand Hindi](https://x.com/randhindi), PhD, founder of Zama (FHE company, raised $100m). Previously Snips (AI company acquired by Sonos). 
