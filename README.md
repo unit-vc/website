@@ -1,7 +1,7 @@
 # Welcome to Unit Ventures!
 
 ## What we do
-We invest in early-stage deeptech companies solving a hard science or engineering problem. You can read more about it on our [blog](randhindi.substack.com).
+We invest in early-stage deeptech companies solving a hard science or engineering problem. You can read more about it on our [blog](https://randhindi.substack.com).
 
 ## What we invest in
 In the past we have invested in AI, cryptography, semiconductors, longevity and more. Right now, we are focusing on:
