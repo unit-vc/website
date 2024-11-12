@@ -8,6 +8,7 @@ In the past we have invested in AI, cryptography, semiconductors, longevity and 
 - vertically integrated hardware-software solutions
 - cryptography (for blockchain or otherwise)
 - biotech (with a strong focus on longevity)
+
 Email [Kyle](kyle@unit.vc) to talk!
 
 ## Who we are
