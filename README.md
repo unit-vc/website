@@ -10,8 +10,8 @@ In the past we have invested in AI, cryptography, semiconductors, longevity and 
 - biotech (with a strong focus on longevity)
 
 ## Who we are
-- **Rand Hindi**: PhD, founder of Zama (FHE company, raised $100m). Previously Snips (AI company acquired by Sonos). [X](https://x.com/randhindi) - [email](rand@unit.vc)
-- **Kyle O'Brien**: CoS/Corp Dev at Zama, worked at multiple deep tech startups before. [X](https://x.com/RoiStartup) - [email](kyle@unit.vc)
+- **Rand Hindi**: PhD, CEO @ Zama (FHE company, raised $100m). Previously CEO @ Snips (AI company acquired by Sonos). [@randhindi](https://x.com/randhindi) - [rand@unit.vc](rand@unit.vc)
+- **Kyle O'Brien**: CoS/Corp Dev @ Zama, worked at multiple deep tech startups before. [@roistartup](https://x.com/RoiStartup) - [kyle@unit.vc](kyle@unit.vc)
 
 ## Performance
 - Investing since Q1 2020
